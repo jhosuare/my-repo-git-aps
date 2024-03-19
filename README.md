@@ -25,7 +25,7 @@ Esto es un **texto en negrita**
 
 > Para escribir codigo, se utilizan las comillas invertidas. El codigo se escribe en medio de las dos comillas
 
-" $  npm  start"
+`$ npm start`
 
 > Para insretar un enlace, se usan los corchetes y los parentesis, asi:
 
@@ -40,11 +40,10 @@ Esto es un **texto en negrita**
 ![Bear Spotted In The Caldwells; 'Please Use Caution,' Officials Say |  Caldwells, NJ Patch](https://patch.com/img/cdn20/shutterstock/22844250/20231001/015010/styles/patch_image/public/shutterstock-202809928___01134924851.jpg)
 
 >Para hacer un check list:
-
--[x] Tarea1 resuelta
--[] Tarea2
--[] Tarea3
--[] Tarea4
+- [x] tarea1 resuelta 
+- [ ] tarea2
+- [ ] tarea3
+- [ ] tarea4
 
 > Para crear una tabla:
 
